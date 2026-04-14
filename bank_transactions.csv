@@ -1,0 +1,16 @@
+transaction_id,customer_id,transaction_date,amount,transaction_type,location,device_type,is_fraud
+T001,C001,01-01-2024 10:15,5000,Debit,Delhi,Mobile,0
+T002,C002,01-01-2024 11:30,15000,Credit,Mumbai,Laptop,0
+T003,C001,01-01-2024 12:00,70000,Debit,Delhi,Mobile,1
+T004,C003,02-01-2024 09:45,2000,Debit,Bangalore,Tablet,0
+T005,C002,02-01-2024 10:15,90000,Debit,Mumbai,Laptop,1
+T006,C004,02-01-2024 11:00,3000,Credit,Chennai,Mobile,0
+T007,C001,03-01-2024 14:20,120000,Debit,Delhi,Mobile,1
+T008,C005,03-01-2024 15:00,4000,Debit,Hyderabad,Tablet,0
+T009,C003,03-01-2024 16:30,80000,Debit,Bangalore,Mobile,1
+T010,C004,04-01-2024 09:10,2500,Credit,Chennai,Laptop,0
+T011,C002,04-01-2024 10:45,100000,Debit,Mumbai,Mobile,1
+T012,C005,04-01-2024 12:30,3500,Debit,Hyderabad,Tablet,0
+T013,C006,05-01-2024 08:15,6000,Debit,Pune,Mobile,0
+T014,C006,05-01-2024 09:00,95000,Debit,Pune,Laptop,1
+T015,C007,05-01-2024 10:30,2000,Credit,Delhi,Mobile,0
